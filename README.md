@@ -1,0 +1,2 @@
+# ESP32C6-OTA
+ESP32-C6 Cloud OTA Firmware
